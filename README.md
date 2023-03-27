@@ -36,11 +36,12 @@ I have used two languages in the projectthis include,
 2.CSS
 
 Tech Stack
+
 Client
 
 Key Features
-Added index.html file
-Added style.css file
+1.Added index.html file
+2.Added style.css file
 
 Getting Started
 To get a local copy up and running, follow these steps.
@@ -56,9 +57,10 @@ In order to run this project you need:
 Set up
 
 Clone this repository to your desired folder:
-cd <the name of the folder to clone ie. desktop>
-git clone followed by the ssh url of your repository
-cd <the name of the repository>
+
+1.cd <the name of the folder to clone ie. desktop>
+2.git clone followed by the ssh url of your repository
+3.cd <the name of the repository>
 
 Install
 
@@ -66,29 +68,36 @@ To run the project, execute the following command:
 git code . (on your git bash terminal)
 
 Run tests
-Coming soon
+
+1.Coming soon
 
 Deployment
-Coming Soon
+1.Coming Soon
 
 Authors
+
 Brenda Lutiku
-Github: Github
-Twitter: Twitter
-Linkedln: Linkedln
+
+1.Github: Github
+2.Twitter: Twitter
+3.Linkedln: Linkedln
 
 Future Features
-Add javascript
-Add extra style
+
+1.Add javascript
+2.Add extra style
 
 Contributing
-Contribution,issues and features requests welcome
+
+1.Contribution,issues and features requests welcome
 
 Show your support
-If you like my work give a star
+
+1.If you like my work give a star
 
 Acknowledgement
-I would like to thank Microverse and the entire team plus my fellow micronaunts for their support.
+
+1.I would like to thank Microverse and the entire team plus my fellow micronaunts for their support.
 
 <!-- FAQ (optional) -->
 
