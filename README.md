@@ -1,4 +1,36 @@
-        Brenda Lutiku
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
+  <h3><b>helomicro project</b></h3>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,84 +58,215 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 helomicro
+# 📖 [helomicro] <a name="about-project"></a>
 
-This project is my first project on practicing how to use linters.
+> This is my first project from microverse school where i have been assigned to check my knowledge in the use of linters.
 
-Built in
-I have used two languages in the projectthis include,
-1.HTML
-2.CSS
+**[helomicro]** is a project on use of linters that only focuses on two languages which are html/css at the moment but could be modified later.
 
-Tech Stack
+## 🛠 Built With <a name="built-with"></a>
 
-Client
+### Tech Stack <a name="tech-stack"></a>
 
-Key Features
-1.Added index.html file
-2.Added style.css file
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-Getting Started
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Added index.html]**
+- **[Added styles.css]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Coming soon)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
 
-Prerequirements
+### Prerequisites
 
 In order to run this project you need:
 
-1. Code editor for example a visual studio code
-2. Web browser
-3. Git/github as the version control
+1. Web browser
 
-Set up
+2. Code editor(visual studio code)
+
+3. Git/Github(version control system)
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
 
 Clone this repository to your desired folder:
 
-1.cd <the name of the folder to clone ie. desktop>
-2.git clone followed by the ssh url of your repository
-3.cd <the name of the repository>
+1.git clone <the ssh url of the given repository>
 
-Install
+2.cd <the name of the repository>
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+To run the project on local machine execute the following command
+
+1.code .(to open on visual studio code)
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
 
 To run the project, execute the following command:
-git code . (on your git bash terminal)
 
-Run tests
+1.Open index.html file on your visual studio then use live server to open it on your prefered browser.
 
-1.Coming soon
+<!--
+Example command:
 
-Deployment
-1.Coming Soon
+```sh
+  rails server
+```
+--->
 
-Authors
+### Run tests
 
-Brenda Lutiku
+To run tests, run the following command:
 
-1.Github: Github
-2.Twitter: Twitter
-3.Linkedln: Linkedln
+<!--
+Example command:
 
-Future Features
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
-1.Add javascript
-2.Add extra style
+### Deployment
 
-Contributing
+You can deploy this project using:
 
-1.Contribution,issues and features requests welcome
+<!--
+Example:
 
-Show your support
+```sh
 
-1.If you like my work give a star
+```
+ -->
 
-Acknowledgement
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-1.I would like to thank Microverse and the entire team plus my fellow micronaunts for their support.
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Brenda Lutiku
+
+👤 **Author1**
+
+- GitHub: [Github]
+- Twitter: [Github]
+- LinkedIn: [LinkedIn]
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse and the entire team including my fellow micronaunts for their support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
